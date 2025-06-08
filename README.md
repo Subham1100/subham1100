@@ -10,8 +10,3 @@
 <a href="https://codeforces.com/profile/sung_jinwoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sung_jinwoo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mayicode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayicode" height="30" width="40" /></a>
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham1100&" alt="subham1100" /></p>
