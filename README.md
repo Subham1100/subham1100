@@ -2,9 +2,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/subham-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="subham-chauhan" height="30" width="40" /></a>
-<a href="https://twitter.com/mayi_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayi_codes" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/subham-chauhan-30b52822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham-chauhan-30b52822b" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/subhamchauhan1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhamchauhan1100" height="30" width="40" /></a>
 </p>
 
